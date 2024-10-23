@@ -12,6 +12,7 @@ return {
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.pack.astro" },
   { import = "astrocommunity.colorscheme.gruvbox-nvim" },
   { import = "astrocommunity.colorscheme.lackluster-nvim" },
   -- import/override with your plugins folder
