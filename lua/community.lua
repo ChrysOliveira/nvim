@@ -17,5 +17,7 @@ return {
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.colorscheme.gruvbox-nvim" },
   { import = "astrocommunity.colorscheme.lackluster-nvim" },
+  { import = "astrocommunity.colorscheme.kanagawa-nvim" },
+  { import = "astrocommunity.colorscheme.everforest" },
   -- import/override with your plugins folder
 }
